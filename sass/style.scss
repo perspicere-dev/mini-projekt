@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  text-align: center;
+  color: #3d3d3d;
+  font-size: 16px;
+  line-height: 1.7;
+}
+
+.navbar-brand {
+  font-weight: 900;
+  color: gold;
+  font-family: monospace;
+}
+
+.splash {
+  height: 100vh;
+  position: relative;
+  background-image: url("/Users/przemyslawwnek/Desktop/Kodilla web dev/projekt_mini/images/header-bg.jpeg");
+  background-position: center center;
+  background-size: cover;
+  background-attachment: fixed;
+}
